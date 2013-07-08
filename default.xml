@@ -450,5 +450,6 @@
   <project path="kernel/htc/protou" name="ProtouProject/android_kernel_htc_protou" remote="atis" revision="cm-10.1" />
   <project path="device/htc/protou" name="ProtouProject/android_device_htc_protou" remote="atis" revision="cm-10.1" />
   <project path="vendor/htc/protou" name="ProtouProject/android_vendor_htc_protou" remote="atis" revision="cm-10.1" />
+  <project path="my_platform_manifest" name="ProtoU/platform_manifest" remote="atis" revision="jb-mr1" />
   <project path="platform_manifest" name="AOKP/platform_manifest" remote="aokp" revision="jb-mr1" />
 </manifest>
